@@ -1,7 +1,7 @@
 Hi 👋 My name is Suresh Patta
 ===============================
 
-Developer, Designer & Teacher
+Full Stack Developer
 -----------------------------
 
 *   🌍  I'm based in INDIA
