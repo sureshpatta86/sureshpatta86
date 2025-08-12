@@ -5,7 +5,7 @@ Full Stack Developer
 -----------------------------
 
 *   🌍  I'm based in INDIA
-*   🖥️  See my portfolio at [sureshpatta.com](http://www.sureshpatta.com/)
+*   🖥️  See my portfolio at [sureshpatta.com](https://sureshpatta.vercel.app/)
 *   ✉️  You can contact me at [sureshnani86@gmail.com](mailto:sureshnani86@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
