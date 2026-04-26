@@ -34,52 +34,44 @@
 ### 🛠 Skills
 
 **AI / Gen AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-c6f24e?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Agentic_AI-c6f24e?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-c6f24e?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+- Generative AI
+- Agentic AI
+- LangChain
+- LangGraph
+- MCP (Model Context Protocol)
+- OpenAI / GPT
+- RAG · Vector DBs
+- Azure AI · AI Builder
 
 **Languages & Backend**
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.pulumi.com/logos/tech/dotnet.png" width="36" height="36" alt=".NET" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="46" height="36" alt="Go" /></a>
-</p>
+- C# · .NET Core
+- Python
+- Node.js · Express
+- Go
 
 **Frontend**
-<p align="left">
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+- HTML5 · CSS3
 
 **Cloud & DevOps**
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+- Microsoft Azure
+- Microservices
+- Docker
+- Kubernetes
+- Azure DevOps
+- CI/CD · Git
+- Linux
 
 **Data**
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
-</p>
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Redis
 
 ---
 
@@ -107,15 +99,13 @@
 
 ---
 
-### 🌐 Socials
+### 🌐 Connect
 
-<p align="left">
-  <a href="https://github.com/sureshpatta86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://in.linkedin.com/in/suresh-patta-12a07922" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://mobile.twitter.com/sureshpatta86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter / X" /></a>
-  <a href="mailto:sureshnani86@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
-  <a href="https://sureshpatta.vercel.app" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/c6f24e" width="32" height="32" alt="Portfolio" /></a>
-</p>
+- 🌐 **Portfolio** — [sureshpatta.vercel.app](https://sureshpatta.vercel.app)
+- 💼 **LinkedIn** — [in/suresh-patta-12a07922](https://in.linkedin.com/in/suresh-patta-12a07922)
+- 🐙 **GitHub** — [@sureshpatta86](https://github.com/sureshpatta86)
+- 🐦 **Twitter / X** — [@sureshpatta86](https://mobile.twitter.com/sureshpatta86)
+- ✉️ **Email** — [sureshnani86@gmail.com](mailto:sureshnani86@gmail.com)
 
 ---
 
